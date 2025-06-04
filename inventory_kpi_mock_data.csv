@@ -1,0 +1,14 @@
+product_id,category,stockout_days,overstock_days,avg_inventory_level,avg_demand_forecast,forecast_accuracy (%),inventory_turnover
+P001,Snacks,12,45,80,75,92,5.5
+P002,Beverages,30,20,50,55,87,4.8
+P003,Dairy,5,60,120,115,98,6.2
+P004,Snacks,18,35,70,60,90,5.1
+P005,Beverages,25,10,40,45,83,4.3
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
